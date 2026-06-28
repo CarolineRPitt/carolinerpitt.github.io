@@ -1,5 +1,3 @@
-# carolinepitt.github.io
-<h1>Caroline R. Pitt</h1>
 <h2>Research, Learning, Technology... CarolineTheGeek</h2>
 
 <p>Eventual new spot for <a href="https://carolinerpitt.phd">my homepage</a></p>
