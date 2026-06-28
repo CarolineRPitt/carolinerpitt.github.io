@@ -9,4 +9,4 @@
   <li> <a href= "https://docs.google.com/document/d/1JGTg46oeEae53NnHOaRP68KJQqORFSRK/edit?usp=sharing&ouid=116377952747385876302&rtpof=true&sd=true"> Current CV </a> (updated June 2026)</li>
 </ul>
 
-</br> Setting up. Under construction.
+<p>Setting up. Under construction.</p>
