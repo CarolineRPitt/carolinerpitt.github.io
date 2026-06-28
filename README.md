@@ -4,7 +4,7 @@
 <body>
 <h2>Research, Learning, Technology... CarolineTheGeek</h2>
 
-<p>Eventual new spot for <a href="https://carolinerpitt.phd">my homepage</a></p>
+<p>Eventual new spot for <a href="https://carolinerpitt.phd">my homepage</a> which is currently <a href="https://staff.washington.edu/pittc/"> hosted by UW</a> and sadly out of date. </p>
 <ul>
   <li> <a href= "https://orcid.org/0000-0001-6975-1900"> ORCID</a> (research persistent identifier/publication list)</li>
   <li> <a href="https://scholar.google.com/citations?user=BwMqADAAAAAJ&hl=en"> Google Scholar</a> (publication list)</li>
