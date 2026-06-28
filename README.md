@@ -1,3 +1,7 @@
+<head>
+  <script type="module" src="https://cdn.jsdelivr.net/npm/bsky-embed/dist/bsky-embed.es.js" async></script>
+</head>
+<body>
 <h2>Research, Learning, Technology... CarolineTheGeek</h2>
 
 <p>Eventual new spot for <a href="https://carolinerpitt.phd">my homepage</a></p>
@@ -11,3 +15,11 @@
 </ul>
 
 <p>Setting up. Under construction.</p>
+<p>
+
+  <bsky-embed
+    username="carolinethegeek.bsky.social"
+    mode="dark"
+    limit="5">
+  </bsky-embed>
+</body>
