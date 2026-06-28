@@ -16,10 +16,31 @@
 
 <p>Setting up. Under construction.</p>
 <!-- https://github.com/Vincenius/bsky-embed -->
+<!-- Options: username="vincentwill.com"
+    feed="at://...(decide between username, feed, or search)"
+    search="#BuildInPublic (decide between username, feed, and search)"
+    mode="dark"
+    limit="5"
+    link-target="_blank"
+    link-image="true"
+    load-more="true"
+    disable-styles="false"
+    custom-styles=".border-slate-300 { border-color: red; }"
+    date-format='{"type":"absolute","locale":"de-DE","options":{"weekday":"long","year":"numeric","month":"long","day":"numeric"}}'
+    disable-images="true"
+    disable-videos="true"
+    disable-autoplay="true" -->
+    
 <h3>BlueSky Happenings</h3>
 <p>
   <script type="module" src="https://cdn.jsdelivr.net/npm/bsky-embed/dist/bsky-embed.es.js" async></script>
-  <bsky-embed username="carolinethegeek.bsky.social" mode="light" limit="5">
+  <bsky-embed username="carolinethegeek.bsky.social" 
+    mode="light" limit="5" 
+    load-more="true" 
+    custom-styles=".border-slate-300"
+    disable-images="true"
+    disable-videos="true"
+    disable-autoplay="true">
   </bsky-embed>
 </p>
 </body>
