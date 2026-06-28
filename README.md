@@ -38,8 +38,8 @@
     mode="" limit="5" 
     load-more="true" 
     custom-styles=".border-slate-300"
-    disable-images="true"
-    disable-videos="true"
+    disable-images="false"
+    disable-videos="false"
     disable-autoplay="true">
   </bsky-embed>
 </p>
