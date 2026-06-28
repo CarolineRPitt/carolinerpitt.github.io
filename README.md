@@ -15,9 +15,11 @@
 </ul>
 
 <p>Setting up. Under construction.</p>
+<!-- https://github.com/Vincenius/bsky-embed -->
+<h3>BlueSky Happenings</h3>
 <p>
   <script type="module" src="https://cdn.jsdelivr.net/npm/bsky-embed/dist/bsky-embed.es.js" async></script>
-  <bsky-embed username="carolinethegeek.bsky.social" mode="dark" limit="5">
+  <bsky-embed username="carolinethegeek.bsky.social" mode="light" limit="5">
   </bsky-embed>
 </p>
 </body>
